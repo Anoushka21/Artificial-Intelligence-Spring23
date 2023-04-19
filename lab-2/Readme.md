@@ -1,7 +1,7 @@
 ag8733 AI Lab 2 submission
 
 Command to run-\
-python3 solver.py [-v] ncolors input.txt
+  python3 solver.py [-v] ncolors input.txt
 
 [-v] -----> optional and gives verbose output\
 ncolors ----> # of colors and should be 2,3 or 4\
