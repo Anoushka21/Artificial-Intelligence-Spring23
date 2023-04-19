@@ -20,7 +20,7 @@ input-1.txt in verbose mode, with max-value-cutoff [-10,10] and root is the max 
 
 input-1.txt in verbose mode with alpha-beta pruning with max-value-cutoff [-10,10] and root is the max player
 
-        python minmax.py -v -ab 10 max input-1.txt\
+        python minmax.py -v -ab 10 max input-1.txt
 
 
 ***NOTE***\
