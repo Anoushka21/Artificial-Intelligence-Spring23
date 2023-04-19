@@ -8,7 +8,7 @@ python3 minmax.py [-v] [-ab] n max/min file.txt
 [-ab] ---> optional argument to enable alpha-beta pruning\
 n ---> positive integer which refers to max-value-cutoff\
 max/min ---> signifies if the root player is max player or min player\
-file.txt ----> input file\
+file.txt ----> input file
 
 Some examples :\
 input-1.txt in default mode, with max-value-cutoff [-10,10] and root is the max player
